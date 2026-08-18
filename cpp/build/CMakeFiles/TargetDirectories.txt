@@ -1,0 +1,16 @@
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/minijax_cpp.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/graph_smoke_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/phase1_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/phase2_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/gradcheck_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/opt_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/flatten_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/extract_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/complex_flatten_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/broadcast_flatten_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/flops_extract_test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/microbench.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/microbench_large.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/test.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/edit_cache.dir
+/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax/minijax/cpp/build/CMakeFiles/rebuild_cache.dir

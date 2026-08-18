@@ -1,0 +1,36 @@
+[package]
+name = "minijax"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "minijax"
+path = "src/main.rs"
+
+[dependencies]
+egg = "0.9"
+ndarray = { version = "0.16", features = ["rayon"] }
+rand = "0.8"
+z3 = { version = "0.20", features = ["bundled"] }
+cranelift-codegen = "0.115"
+cranelift-frontend = "0.115"
+cranelift-jit = "0.115"
+cranelift-module = "0.115"
+cranelift-native = "0.115"
+logos = "0.14"
+thiserror = "2"
+anyhow = "1"
+clap = { version = "4", features = ["derive"] }
+
+[dev-dependencies]
+approx = "0.5"
+proptest = "1"
+criterion = { version = "0.5", features = ["html_reports"] }
+
+[[bench]]
+name = "bench"
+harness = false
+
+[profile.release]
+opt-level = 3
+lto = true

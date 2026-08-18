@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/microbench.dir/link.d CMakeFiles/microbench.dir/tests/microbench.cpp.o -o microbench

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/extract_test.dir/link.d CMakeFiles/extract_test.dir/tests/extract_test.cpp.o -o extract_test
