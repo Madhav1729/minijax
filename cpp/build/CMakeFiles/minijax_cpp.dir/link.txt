@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/minijax_cpp.dir/link.d CMakeFiles/minijax_cpp.dir/src/main.cpp.o -o minijax_cpp

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/opt_test.dir/link.d CMakeFiles/opt_test.dir/tests/opt_test.cpp.o -o opt_test

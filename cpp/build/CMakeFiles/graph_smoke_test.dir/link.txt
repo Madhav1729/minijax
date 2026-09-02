@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/graph_smoke_test.dir/link.d CMakeFiles/graph_smoke_test.dir/tests/smoke_test.cpp.o -o graph_smoke_test

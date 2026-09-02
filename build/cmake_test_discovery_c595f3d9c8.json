@@ -1,0 +1,676 @@
+{
+  "tests": 116,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Autodiff",
+      "tests": 14,
+      "testsuite": [
+        {
+          "name": "AddGradIsOnes",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 10
+        },
+        {
+          "name": "MulGradIsOtherOperand",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 23
+        },
+        {
+          "name": "MatMulGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 32
+        },
+        {
+          "name": "ReluGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 46
+        },
+        {
+          "name": "TanhGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 55
+        },
+        {
+          "name": "SigmoidGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 63
+        },
+        {
+          "name": "ExpLogGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 71
+        },
+        {
+          "name": "SqrtGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 80
+        },
+        {
+          "name": "DivGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 88
+        },
+        {
+          "name": "SumAxisGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 99
+        },
+        {
+          "name": "BroadcastGradSumsOverExpandedAxes",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 107
+        },
+        {
+          "name": "LossFixtureGradcheckAllInputs",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 116
+        },
+        {
+          "name": "NonScalarOutputThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 128
+        },
+        {
+          "name": "UnusedWrtGivesZeroGrad",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/autodiff_test.cpp",
+          "line": 134
+        }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "LexesTokensAndSkipsComments",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/frontend_test.cpp",
+          "line": 8
+        },
+        {
+          "name": "LexRejectsIllegalCharacters",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/frontend_test.cpp",
+          "line": 20
+        },
+        {
+          "name": "ParsesPrecedenceAndCallsIntoCorrectGraph",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/frontend_test.cpp",
+          "line": 24
+        },
+        {
+          "name": "LossProgramRunsFromSourceTextAndMatchesHandComputed",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/frontend_test.cpp",
+          "line": 44
+        },
+        {
+          "name": "ShapeErrorsAreReadableWithLineInfo",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/frontend_test.cpp",
+          "line": 70
+        },
+        {
+          "name": "SemanticErrorsAreReadableToo",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/frontend_test.cpp",
+          "line": 89
+        }
+      ]
+    },
+    {
+      "name": "Fuzz",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "GeneratedProgramIsWellFormedAndEvaluable",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 8
+        },
+        {
+          "name": "GenerationIsDeterministicGivenSameSeed",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 18
+        },
+        {
+          "name": "InterpVsVmOracleAgreesOnKnownGoodGraph",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 28
+        },
+        {
+          "name": "MetamorphicOracleAgreesOnKnownGoodGraph",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 42
+        },
+        {
+          "name": "SeededCampaignFindsNoFailures",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 53
+        },
+        {
+          "name": "InterpVsJitOracleAgreesOnKnownGoodGraph",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 65
+        },
+        {
+          "name": "SeededCampaignWithJitOracleFindsNoFailures",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/fuzz_test.cpp",
+          "line": 77
+        }
+      ]
+    },
+    {
+      "name": "Interp",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "LossFixtureHandComputed",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/interp_test.cpp",
+          "line": 7
+        },
+        {
+          "name": "ReluZerosOutNegatives",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/interp_test.cpp",
+          "line": 18
+        },
+        {
+          "name": "ConstNodeBroadcastsToItsShape",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/interp_test.cpp",
+          "line": 27
+        },
+        {
+          "name": "WrongNumberOfInputsThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/interp_test.cpp",
+          "line": 34
+        },
+        {
+          "name": "ExplicitBroadcastNodeMatchesTensorBroadcast",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/interp_test.cpp",
+          "line": 39
+        },
+        {
+          "name": "EvalAllReturnsPerNodeValues",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/interp_test.cpp",
+          "line": 51
+        }
+      ]
+    },
+    {
+      "name": "Ir",
+      "tests": 8,
+      "testsuite": [
+        {
+          "name": "TopoOrderInvariant",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 7
+        },
+        {
+          "name": "InputSlotsTrackOrder",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 16
+        },
+        {
+          "name": "MatMulShapeInference",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 27
+        },
+        {
+          "name": "MatMulShapeMismatchThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 35
+        },
+        {
+          "name": "BinopInsertsExplicitBroadcastNode",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 42
+        },
+        {
+          "name": "IncompatibleBroadcastThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 55
+        },
+        {
+          "name": "SumReducesToRank0",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 62
+        },
+        {
+          "name": "LossFixtureBuildsAndShapesOut",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/ir_test.cpp",
+          "line": 69
+        }
+      ]
+    },
+    {
+      "name": "Jit",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "MatchesInterpreterOnLossFixture",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 24
+        },
+        {
+          "name": "MatchesInterpreterAndVmOnEveryCoreOp",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 36
+        },
+        {
+          "name": "MatchesInterpreterOnEveryGradientOutputOfLossFixture",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 101
+        },
+        {
+          "name": "RejectsPhase9OpsAtCompileTimeWithClearError",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 118
+        },
+        {
+          "name": "RejectsWrongInputCountAndShape",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 132
+        },
+        {
+          "name": "ProgramReuseAcrossDifferentInputs",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 145
+        },
+        {
+          "name": "SpeedupVsInterpreterOnMatmulChainPrinted",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/jit_test.cpp",
+          "line": 162
+        }
+      ]
+    },
+    {
+      "name": "MemPlan",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "SharedLivenessMatchesManualAnalysis",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 8
+        },
+        {
+          "name": "DeepMlpPeakMemoryReductionGate",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 29
+        },
+        {
+          "name": "SlotsReuseAcrossSameNumelShapes",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 51
+        },
+        {
+          "name": "InPlaceCandidatesDetectedAndFiltered",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 66
+        },
+        {
+          "name": "MultiConsumerBreaksInPlaceAndFusion",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 88
+        },
+        {
+          "name": "FusionChainsDetectedOnUnaryStack",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 107
+        },
+        {
+          "name": "ReportContainsSummarySections",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/memplan_test.cpp",
+          "line": 120
+        }
+      ]
+    },
+    {
+      "name": "Nn",
+      "tests": 9,
+      "testsuite": [
+        {
+          "name": "MlpForwardProducesCorrectShape",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 8
+        },
+        {
+          "name": "ParamsCountMatchesLayerStructure",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 16
+        },
+        {
+          "name": "XavierInitIsWithinExpectedRange",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 23
+        },
+        {
+          "name": "SgdStepMovesInNegativeGradientDirection",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 34
+        },
+        {
+          "name": "AdamStepDecreasesParamInGradientDirection",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 43
+        },
+        {
+          "name": "TwoMoonsDatasetHasBalancedLabels",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 55
+        },
+        {
+          "name": "TwoMoonsGenerationIsDeterministicGivenSeed",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 67
+        },
+        {
+          "name": "AdamLossDecreasesMonotonicallyOnFixedSample",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 76
+        },
+        {
+          "name": "MlpReachesHighAccuracyOnTwoMoons",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/nn_test.cpp",
+          "line": 115
+        }
+      ]
+    },
+    {
+      "name": "Opt",
+      "tests": 10,
+      "testsuite": [
+        {
+          "name": "LossFixtureOptimizedMatchesOriginal",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 10
+        },
+        {
+          "name": "AddZeroEliminated",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 23
+        },
+        {
+          "name": "MulOneAndMulZero",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 41
+        },
+        {
+          "name": "DoubleNegationCancels",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 57
+        },
+        {
+          "name": "AssociativityExposesHiddenZero",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 71
+        },
+        {
+          "name": "ConstantFoldingArithmetic",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 88
+        },
+        {
+          "name": "MatmulAssociativityPreservesResult",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 103
+        },
+        {
+          "name": "InputOrderPreservedAfterOptimize",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 122
+        },
+        {
+          "name": "OptimizeSoundStillEliminatesAddZero",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 132
+        },
+        {
+          "name": "OptimizeSoundStillCorrectOnMatmulChain",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 149
+        }
+      ]
+    },
+    {
+      "name": "EGraph",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "HashconsDedupsIdenticalNodes",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 171
+        },
+        {
+          "name": "UniteMergesClasses",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 179
+        },
+        {
+          "name": "SaturateTerminates",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/opt_test.cpp",
+          "line": 191
+        }
+      ]
+    },
+    {
+      "name": "Phase9",
+      "tests": 12,
+      "testsuite": [
+        {
+          "name": "Im2ColMatchesTensorDirectly",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 12
+        },
+        {
+          "name": "MaxPoolMatchesTensorDirectly",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 22
+        },
+        {
+          "name": "Im2ColGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 33
+        },
+        {
+          "name": "MaxPoolGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 41
+        },
+        {
+          "name": "Conv2dGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 52
+        },
+        {
+          "name": "Conv2dOutputShapeCorrect",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 67
+        },
+        {
+          "name": "SoftmaxSumsToOne",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 76
+        },
+        {
+          "name": "SoftmaxGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 85
+        },
+        {
+          "name": "CrossEntropyMatchesHandComputed",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 97
+        },
+        {
+          "name": "SoftmaxCrossEntropyGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 109
+        },
+        {
+          "name": "BatchNormNormalizesToZeroMeanUnitVar",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 119
+        },
+        {
+          "name": "BatchNormGradcheck",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/phase9_test.cpp",
+          "line": 130
+        }
+      ]
+    },
+    {
+      "name": "Smoke",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "BuildPipelineWorks",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/smoke_test.cpp",
+          "line": 3
+        }
+      ]
+    },
+    {
+      "name": "Tensor",
+      "tests": 12,
+      "testsuite": [
+        {
+          "name": "ScalarIsRankZero",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 6
+        },
+        {
+          "name": "ElementwiseAddMulMatchHandComputed",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 13
+        },
+        {
+          "name": "ShapeMismatchThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 25
+        },
+        {
+          "name": "ReluAndStep",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 31
+        },
+        {
+          "name": "MatmulHandComputed3x3",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 42
+        },
+        {
+          "name": "MatmulInnerDimMismatchThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 59
+        },
+        {
+          "name": "TransposeRank2",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 65
+        },
+        {
+          "name": "BroadcastScalarToShape",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 72
+        },
+        {
+          "name": "BroadcastRowVectorAcrossRows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 79
+        },
+        {
+          "name": "SumFullReducesToScalar",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 87
+        },
+        {
+          "name": "SumAxisReducesCorrectDim",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 94
+        },
+        {
+          "name": "ReshapePreservesData",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/tensor_test.cpp",
+          "line": 105
+        }
+      ]
+    },
+    {
+      "name": "Verify",
+      "tests": 6,
+      "testsuite": [
+        {
+          "name": "CommutativityIsSoundOverReals",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/verify_test.cpp",
+          "line": 6
+        },
+        {
+          "name": "AssociativityIsSoundOverRealsButNotFloats",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/verify_test.cpp",
+          "line": 14
+        },
+        {
+          "name": "MulZeroFlaggedUnsoundDueToInfNan",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/verify_test.cpp",
+          "line": 30
+        },
+        {
+          "name": "DeliberatelyWrongRuleIsCaughtEvenOverReals",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/verify_test.cpp",
+          "line": 40
+        },
+        {
+          "name": "SoundnessReportCoversAllOptimizerRules",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/verify_test.cpp",
+          "line": 53
+        },
+        {
+          "name": "FormatSoundnessReportProducesNonEmptyTable",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/verify_test.cpp",
+          "line": 83
+        }
+      ]
+    },
+    {
+      "name": "Vm",
+      "tests": 8,
+      "testsuite": [
+        {
+          "name": "MatchesInterpreterOnLossFixture",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 9
+        },
+        {
+          "name": "MatchesInterpreterAfterCompact",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 23
+        },
+        {
+          "name": "MatchesInterpreterOnGradientGraph",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 37
+        },
+        {
+          "name": "CompactShrinksRegisterCountOnLongChain",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 53
+        },
+        {
+          "name": "CompactNeverAliasesLiveRegisters",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 73
+        },
+        {
+          "name": "SerializationRoundTrips",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 93
+        },
+        {
+          "name": "DeserializeTruncatedBufferThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 111
+        },
+        {
+          "name": "UninitializedRegisterReadThrows",
+          "file": "\/home\/mbhardwaj\/Documents\/madhav_files\/placement_prep\/minijax-cpp\/minijax-cpp-archive\/tests\/vm_test.cpp",
+          "line": 119
+        }
+      ]
+    }
+  ]
+}

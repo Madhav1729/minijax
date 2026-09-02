@@ -1,0 +1,10 @@
+let s = input([4]);
+let t = input([4]);
+
+let e       = exp(s);
+let total   = sum(e);
+let p       = e / broadcast(total, [4]);
+let logp    = log(p);
+let ce      = -(sum(logp * t));
+
+output ce;
