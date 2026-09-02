@@ -1,0 +1,5 @@
+if(EXISTS "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/minijax_tests_e3b0c442_tests.cmake")
+  include("/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/minijax_tests_e3b0c442_tests.cmake")
+else()
+  add_test(minijax_tests_NOT_BUILT minijax_tests_NOT_BUILT)
+endif()

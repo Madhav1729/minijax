@@ -1,0 +1,11 @@
+name: minijax-cpp
+channels:
+  - conda-forge
+dependencies:
+  - cxx-compiler
+  - cmake >=3.20
+  - ninja
+  - git
+  - eigen =3.4
+  - z3prover
+  - llvmdev=18

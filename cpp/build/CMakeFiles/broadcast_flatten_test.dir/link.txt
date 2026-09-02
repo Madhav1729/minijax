@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/broadcast_flatten_test.dir/link.d CMakeFiles/broadcast_flatten_test.dir/tests/broadcast_flatten_test.cpp.o -o broadcast_flatten_test

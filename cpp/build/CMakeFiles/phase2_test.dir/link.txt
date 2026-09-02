@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -Wl,--dependency-file=CMakeFiles/phase2_test.dir/link.d CMakeFiles/phase2_test.dir/tests/phase2_test.cpp.o -o phase2_test

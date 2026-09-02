@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminijax_jit.a CMakeFiles/minijax_jit.dir/src/jit.cpp.o
+/usr/bin/ranlib libminijax_jit.a

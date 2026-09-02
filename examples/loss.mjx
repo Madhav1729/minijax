@@ -1,0 +1,9 @@
+let W = input([2, 2]);
+let x = input([2, 1]);
+let y = input([2, 1]);
+
+let pred  = relu(W @ x);
+let diff  = pred - y;
+let loss  = sum(diff);
+
+output loss;

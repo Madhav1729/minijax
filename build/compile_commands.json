@@ -1,0 +1,218 @@
+[
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/tensor.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/tensor.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/tensor.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/tensor.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/ir.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/ir.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/ir.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/ir.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/interp.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/interp.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/interp.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/interp.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/autodiff.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/autodiff.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/autodiff.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/autodiff.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/egraph.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/egraph.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/egraph.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/egraph.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/opt.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/opt.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/opt.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/opt.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/verify.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/verify.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/verify.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/verify.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/vm.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/vm.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/vm.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/vm.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/memplan.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/memplan.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/memplan.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/memplan.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_core.dir/src/viz.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/viz.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/viz.cpp",
+  "output": "CMakeFiles/minijax_core.dir/src/viz.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_jit.dir/src/jit.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/jit.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/jit.cpp",
+  "output": "CMakeFiles/minijax_jit.dir/src/jit.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_extra.dir/src/nn.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/nn.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/nn.cpp",
+  "output": "CMakeFiles/minijax_extra.dir/src/nn.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_extra.dir/src/fuzz.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/fuzz.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/fuzz.cpp",
+  "output": "CMakeFiles/minijax_extra.dir/src/fuzz.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_extra.dir/src/frontend/lexer.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/frontend/lexer.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/frontend/lexer.cpp",
+  "output": "CMakeFiles/minijax_extra.dir/src/frontend/lexer.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_extra.dir/src/frontend/parser.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/frontend/parser.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/frontend/parser.cpp",
+  "output": "CMakeFiles/minijax_extra.dir/src/frontend/parser.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -Wall -Wextra -O2 -o CMakeFiles/minijax_extra.dir/src/frontend/lower.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/frontend/lower.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/frontend/lower.cpp",
+  "output": "CMakeFiles/minijax_extra.dir/src/frontend/lower.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax.dir/src/cli.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/cli.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/src/cli.cpp",
+  "output": "CMakeFiles/minijax.dir/src/cli.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/autodiff_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/autodiff_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/autodiff_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/autodiff_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/frontend_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/frontend_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/frontend_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/frontend_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/fuzz_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/fuzz_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/fuzz_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/fuzz_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/interp_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/interp_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/interp_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/interp_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/ir_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/ir_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/ir_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/ir_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/jit_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/jit_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/jit_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/jit_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/memplan_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/memplan_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/memplan_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/memplan_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/nn_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/nn_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/nn_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/nn_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/opt_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/opt_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/opt_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/opt_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/phase9_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/phase9_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/phase9_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/phase9_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/smoke_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/smoke_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/smoke_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/smoke_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/tensor_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/tensor_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/tensor_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/tensor_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/verify_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/verify_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/verify_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/verify_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_tests.dir/tests/vm_test.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/vm_test.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/tests/vm_test.cpp",
+  "output": "CMakeFiles/minijax_tests.dir/tests/vm_test.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -DMINIJAX_WITH_JIT=1 -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/include -isystem /home/mbhardwaj/miniconda3/envs/minijax-cpp/include/eigen3 -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles/minijax_bench.dir/bench/bench.cpp.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/bench/bench.cpp",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/bench/bench.cpp",
+  "output": "CMakeFiles/minijax_bench.dir/bench/bench.cpp.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-build/googlemock",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock/include -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-build/googlemock",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-build/googletest",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -I/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-build/googletest",
+  "command": "/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++  -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/include -isystem /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest -O3 -DNDEBUG -std=c++20 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/mbhardwaj/Documents/madhav_files/placement_prep/minijax-cpp/minijax-cpp-archive/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

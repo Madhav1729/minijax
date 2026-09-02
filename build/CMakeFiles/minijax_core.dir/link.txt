@@ -1,0 +1,2 @@
+/usr/bin/ar qc libminijax_core.a CMakeFiles/minijax_core.dir/src/tensor.cpp.o CMakeFiles/minijax_core.dir/src/ir.cpp.o CMakeFiles/minijax_core.dir/src/interp.cpp.o CMakeFiles/minijax_core.dir/src/autodiff.cpp.o CMakeFiles/minijax_core.dir/src/egraph.cpp.o CMakeFiles/minijax_core.dir/src/opt.cpp.o CMakeFiles/minijax_core.dir/src/verify.cpp.o CMakeFiles/minijax_core.dir/src/vm.cpp.o CMakeFiles/minijax_core.dir/src/memplan.cpp.o CMakeFiles/minijax_core.dir/src/viz.cpp.o
+/usr/bin/ranlib libminijax_core.a
