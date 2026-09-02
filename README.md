@@ -1,7 +1,6 @@
 # minijax-cpp
 
-A small ML compiler written in C++20, ported from the Rust project
-`minijax`. It takes tensor programs from a text format, computes their
+A small ML compiler written in C++20. It takes tensor programs from a text format, computes their
 values and gradients, optimizes them with rewrite rules checked by the Z3
 SMT solver, executes them on three backends (interpreter, bytecode VM,
 LLVM ORC JIT), and trains small neural networks end to end on its own
