@@ -1,2 +1,0 @@
-/usr/bin/ar qc libminijax_extra.a CMakeFiles/minijax_extra.dir/src/nn.cpp.o CMakeFiles/minijax_extra.dir/src/fuzz.cpp.o CMakeFiles/minijax_extra.dir/src/frontend/lexer.cpp.o CMakeFiles/minijax_extra.dir/src/frontend/parser.cpp.o CMakeFiles/minijax_extra.dir/src/frontend/lower.cpp.o
-/usr/bin/ranlib libminijax_extra.a

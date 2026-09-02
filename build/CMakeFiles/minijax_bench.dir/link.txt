@@ -1,1 +1,0 @@
-/home/mbhardwaj/miniconda3/envs/minijax-cpp/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/minijax_bench.dir/link.d CMakeFiles/minijax_bench.dir/bench/bench.cpp.o -o minijax_bench  libminijax_core.a libminijax_extra.a libminijax_jit.a libminijax_core.a /home/mbhardwaj/miniconda3/envs/minijax-cpp/lib/libz3.so.5.1.0.0 -lLLVM-18
